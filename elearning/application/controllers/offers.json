@@ -1,0 +1,16 @@
+{
+	"college":{
+		"SPM":{"offer_type":"free","min_qty":2,"free_qty":1, "offer_detail": "Buy 2 get 3"}
+	},
+	"student":{
+		"PT3":{"offer_type":"price_drop","min_qty":1,"price":"299.99", "offer_detail": "Course is at discounted offer price"}
+	},
+	"school":{
+		"LPUPSR":{"offer_type":"price_drop","min_qty":1,"price":"379.99", "offer_detail": "Course is at discounted offer price"}
+	},
+	"university":{
+		"SPM":{"offer_type":"free","min_qty":4,"free_qty":1, "offer_detail": "Buy 4 get 5"},
+		"PT3":{"offer_type":"price_drop","min_qty":1,"price":"309.99", "offer_detail": "Course is at discounted offer price"},
+		"LPUPSR":{"offer_type":"price_drop","min_qty":3,"price":"389.99", "offer_detail": "Course is at discounted offer price on minimum 3 purchase"}
+	}
+}

@@ -1,0 +1,67 @@
+.mycontainer{
+	padding: 10px;
+}
+
+.qty_input{
+  width: 50px;
+ }
+
+ .center_container{
+    display: table;
+    width: 100%;
+    height: 100%;
+  }
+
+  .center_content{
+    display: table-cell;
+    vertical-align: middle;
+  }
+
+  .center_align{
+    text-align: center;
+  }
+
+  .error_list{
+    color: #a94442;
+  }
+
+  .navbar_signin{
+  	float: right;
+    margin-right: 20px;
+  }
+
+  .navbar_signout{
+  	float: right;
+    margin-right: 20px;
+  }
+
+.float_right{
+	float: right;
+}
+
+.course_name{
+	font-weight: bold;
+	color: #ed143d;
+}
+
+.course_offer{
+	color: #6495ed;
+}
+
+.total_amt{
+	font-weight: bolder;
+	color: green;
+
+}
+
+.add_btn{
+	width: 100%;
+    margin-top: 10px;
+}
+
+.alert_box{
+	position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

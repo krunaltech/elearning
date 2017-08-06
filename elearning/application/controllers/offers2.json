@@ -1,0 +1,14 @@
+{
+	"SPM":{
+		"college":{"offer_type":"free","min_qty":2,"free_qty":1},
+		"university":{"offer_type":"free","min_qty":4,"free_qty":1}
+	},
+	"PT3":{
+		"student":{"offer_type":"price_drop","min_qty":1,"price":"299.99"},
+		"university":{"offer_type":"price_drop","min_qty":1,"price":"309.99"}
+	},
+	"LPUPSR":{
+		"school":{"offer_type":"price_drop","min_qty":1,"price":"379.99"},
+		"university":{"offer_type":"price_drop","min_qty":3,"price":"389.99"}
+	}
+}

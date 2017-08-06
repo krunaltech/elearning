@@ -1,0 +1,32 @@
+[
+{
+	"username":"krunal@krunal.com",
+	"password":"pass",
+	"customer_type":"default"
+},
+{
+	"username":"default@test.com",
+	"password":"pass",
+	"customer_type":"default"
+},
+{
+	"username":"college@test.com",
+	"password":"pass",
+	"customer_type":"college"
+},
+{
+	"username":"student@test.com",
+	"password":"pass",
+	"customer_type":"student"
+},
+{
+	"username":"school@test.com",
+	"password":"pass",
+	"customer_type":"school"
+},
+{
+	"username":"university@test.com",
+	"password":"pass",
+	"customer_type":"university"
+}
+]

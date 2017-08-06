@@ -1,0 +1,17 @@
+[
+	{
+		"id": "SPM",
+		"name": "Sijil Pelajaran Malaysia",
+		"price": 269.99
+	},
+	{
+		"id": "PT3",
+		"name": "Penilaian Menengah Rendah",
+		"price": 322.99
+	},
+	{
+		"id": "LPUPSR",
+		"name": "Lower Primary & Upper Primary",
+		"price": 394.99
+	}
+]
